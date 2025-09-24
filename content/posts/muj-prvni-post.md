@@ -4,6 +4,9 @@ draft = false
 title = 'Muj Prvni Post'
 +++
 
-# TEST
 
-funguj
+
+Na této stránce najdete kompletní dokumentaci potřebnou pro předmět **ZPC – Jak vyrobit téměř cokoliv**.  
+Postupně sem budu přidávat řešení jednotlivých úkolů a nakonec i **finální projekt**.
+
+

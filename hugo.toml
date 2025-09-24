@@ -1,4 +1,33 @@
-baseURL = 'https://example.org/'
-languageCode = 'cz-cs'
-title = 'ZPC portfolio'
-theme = "ananke"
+baseURL = 'http://localhost:1313/'
+languageCode = 'cs-cz'
+title = 'Portfolio Davida Lokaje'
+theme = 'ananke'
+
+# ⚙️ Nastavení výchozího zobrazení
+[pagination]
+  pagerSize = 10
+
+# 📌 Navigační menu
+[[menu.main]]
+  identifier = "uvod"
+  name = "Úvod"
+  url = "/"
+  weight = 1
+
+[[menu.main]]
+  identifier = "o-mne"
+  name = "O mně"
+  url = "/o-mne/"
+  weight = 2
+
+[[menu.main]]
+  identifier = "ukoly"
+  name = "Úkoly"
+  url = "/posts/"
+  weight = 3
+
+[[menu.main]]
+  identifier = "finalni-projekt"
+  name = "Finální projekt"
+  url = "/posts/finalni-projekt/"
+  weight = 4
