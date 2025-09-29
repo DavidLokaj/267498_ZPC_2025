@@ -1,9 +1,8 @@
-baseURL = 'http://localhost:1313/'
+baseURL = 'https://david-lokaj.github.io/267498_ZPC_2025/'
 languageCode = 'cs-cz'
 title = 'Portfolio Davida Lokaje'
 theme = 'ananke'
 
-# ⚙️ Nastavení výchozího zobrazení
 [pagination]
   pagerSize = 10
 

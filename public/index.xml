@@ -2,66 +2,66 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portfolio Davida Lokaje</title>
-    <link>http://localhost:1313/</link>
+    <link>https://david-lokaj.github.io/267498_ZPC_2025/</link>
     <description>Recent content on Portfolio Davida Lokaje</description>
     <generator>Hugo</generator>
     <language>cs-cz</language>
     <lastBuildDate>Mon, 22 Sep 2025 16:35:16 +0200</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://david-lokaj.github.io/267498_ZPC_2025/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Muj Prvni Post</title>
-      <link>http://localhost:1313/posts/muj-prvni-post/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/muj-prvni-post/</link>
       <pubDate>Mon, 22 Sep 2025 16:35:16 +0200</pubDate>
-      <guid>http://localhost:1313/posts/muj-prvni-post/</guid>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/muj-prvni-post/</guid>
       <description>&lt;p&gt;Na této stránce najdete kompletní dokumentaci potřebnou pro předmět &lt;strong&gt;ZPC – Jak vyrobit téměř cokoliv&lt;/strong&gt;.&lt;br&gt;&#xA;Postupně sem budu přidávat řešení jednotlivých úkolů a nakonec i &lt;strong&gt;finální projekt&lt;/strong&gt;.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Finální projekt</title>
-      <link>http://localhost:1313/posts/finalni-projekt/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/finalni-projekt/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/finalni-projekt/</guid>
-      <description>&lt;h2 id=&#34;finální-projekt--automatizovaný-pořadač-spojovacího-materiálu&#34;&gt;Finální projekt – Automatizovaný pořadač spojovacího materiálu&lt;/h2&gt;&#xA;&lt;h2 id=&#34;popis&#34;&gt;Popis&lt;/h2&gt;&#xA;&lt;p&gt;Mým cílem je vytvořit &lt;strong&gt;automatizovaný pořadač spojovacího materiálu&lt;/strong&gt;.&lt;br&gt;&#xA;Projekt bude využívat moderní technologie, které umožní snadné třídění a uspořádání šroubků, matic a dalších drobných komponent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technologie&#34;&gt;Technologie&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;3D tisk&lt;/strong&gt; pro výrobu mechanických částí&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;laserové řezání&lt;/strong&gt; pro konstrukci modulů&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;mikrokontrolér&lt;/strong&gt; pro řízení automatizace&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;očekávaný-výsledek&#34;&gt;Očekávaný výsledek&lt;/h2&gt;&#xA;&lt;p&gt;Zařízení, které usnadní práci na dílně technikům tím, že ušetří čas při hledání správného spojovacího materiálu.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;http://localhost:1313/images/N%C3%A1vrh_1.jpg&#34; alt=&#34;Návrh_1&#34;&gt;&lt;/p&gt;</description>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/finalni-projekt/</guid>
+      <description>&lt;h2 id=&#34;finální-projekt--automatizovaný-pořadač-spojovacího-materiálu&#34;&gt;Finální projekt – Automatizovaný pořadač spojovacího materiálu&lt;/h2&gt;&#xA;&lt;h2 id=&#34;popis&#34;&gt;Popis&lt;/h2&gt;&#xA;&lt;p&gt;Mým cílem je vytvořit &lt;strong&gt;automatizovaný pořadač spojovacího materiálu&lt;/strong&gt;.&lt;br&gt;&#xA;Projekt bude využívat moderní technologie, které umožní snadné třídění a uspořádání šroubků, matic a dalších drobných komponent.&lt;/p&gt;&#xA;&lt;h2 id=&#34;technologie&#34;&gt;Technologie&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;3D tisk&lt;/strong&gt; pro výrobu mechanických částí&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;laserové řezání&lt;/strong&gt; pro konstrukci modulů&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;mikrokontrolér&lt;/strong&gt; pro řízení automatizace&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;očekávaný-výsledek&#34;&gt;Očekávaný výsledek&lt;/h2&gt;&#xA;&lt;p&gt;Zařízení, které usnadní práci na dílně technikům tím, že ušetří čas při hledání správného spojovacího materiálu.&lt;/p&gt;&#xA;&lt;p&gt;&lt;img src=&#34;https://david-lokaj.github.io/267498_ZPC_2025/images/N%C3%A1vrh_1.jpg&#34; alt=&#34;Návrh_1&#34;&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Úkol 1 – Webová stránka</title>
-      <link>http://localhost:1313/posts/ukol1/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol1/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ukol1/</guid>
-      <description>&lt;h1 id=&#34;úkol-1--webová-stránka&#34;&gt;Úkol 1 – Webová stránka&lt;/h1&gt;&#xA;&lt;p&gt;Cílem úkolu bylo vytvořit osobní web pomocí &lt;strong&gt;Hugo&lt;/strong&gt; a nasadit jej na &lt;strong&gt;GitHub Pages&lt;/strong&gt;.&lt;br&gt;&#xA;&lt;img src=&#34;http://localhost:1313/images/auto1.jpg&#34; alt=&#34;Moje auto1&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;postup&#34;&gt;Postup&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Instalace potřebného softwaru (Hugo, Git, Visual Studio Code).&lt;/li&gt;&#xA;&lt;li&gt;Vytvoření nového projektu.&lt;/li&gt;&#xA;&lt;li&gt;Přidání šablony a základního obsahu.&lt;/li&gt;&#xA;&lt;li&gt;Zprovoznění lokální verze.&lt;/li&gt;&#xA;&lt;li&gt;Nahrání na GitHub Pages pomocí Actions.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;výsledek&#34;&gt;Výsledek&lt;/h2&gt;&#xA;&lt;p&gt;👉 Web běží na adrese: &lt;a href=&#34;https://david-lokaj.github.io/267498_ZPC_2025/&#34;&gt;https://david-lokaj.github.io/267498_ZPC_2025/&lt;/a&gt;&lt;/p&gt;</description>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol1/</guid>
+      <description>&lt;h1 id=&#34;úkol-1--webová-stránka&#34;&gt;Úkol 1 – Webová stránka&lt;/h1&gt;&#xA;&lt;p&gt;Cílem úkolu bylo vytvořit osobní web pomocí &lt;strong&gt;Hugo&lt;/strong&gt; a nasadit jej na &lt;strong&gt;GitHub Pages&lt;/strong&gt;.&lt;br&gt;&#xA;&lt;img src=&#34;https://david-lokaj.github.io/267498_ZPC_2025/images/auto1.jpg&#34; alt=&#34;Moje auto1&#34;&gt;&lt;/p&gt;&#xA;&lt;h2 id=&#34;postup&#34;&gt;Postup&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Instalace potřebného softwaru (Hugo, Git, Visual Studio Code).&lt;/li&gt;&#xA;&lt;li&gt;Vytvoření nového projektu.&lt;/li&gt;&#xA;&lt;li&gt;Přidání šablony a základního obsahu.&lt;/li&gt;&#xA;&lt;li&gt;Zprovoznění lokální verze.&lt;/li&gt;&#xA;&lt;li&gt;Nahrání na GitHub Pages pomocí Actions.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;výsledek&#34;&gt;Výsledek&lt;/h2&gt;&#xA;&lt;p&gt;👉 Web běží na adrese: &lt;a href=&#34;https://davidlokaj.github.io/267498_ZPC_2025/&#34;&gt;https://davidlokaj.github.io/267498_ZPC_2025/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/ukol3/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol3/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ukol3/</guid>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol3/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/ukol4/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol4/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ukol4/</guid>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol4/</guid>
       <description></description>
     </item>
     <item>
       <title></title>
-      <link>http://localhost:1313/posts/ukol5/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol5/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ukol5/</guid>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol5/</guid>
       <description></description>
     </item>
     <item>
       <title>O mně</title>
-      <link>http://localhost:1313/posts/o-mne/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/o-mne/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/o-mne/</guid>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/o-mne/</guid>
       <description>&lt;h1 id=&#34;o-mně&#34;&gt;O mně&lt;/h1&gt;&#xA;&lt;p&gt;Jmenuji se &lt;strong&gt;David Lokaj&lt;/strong&gt; a studuji obor &lt;strong&gt;Konstrukční inženýrství&lt;/strong&gt; na &lt;strong&gt;FSI VUT v Brně&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Zabývám se vývojem a stavbou nových zařízení, která mají ulehčit každodenní život.&lt;br&gt;&#xA;Ve volném čase se věnuji opravám starých aut za pomoci moderních technologií.&lt;br&gt;&#xA;Rád tvořím také &lt;strong&gt;3D modely pro výrobu&lt;/strong&gt;, experimentuji s &lt;strong&gt;3D tiskem&lt;/strong&gt; a dalšími technologiemi.&lt;/p&gt;&#xA;&lt;p&gt;📧 Kontakt: &lt;a href=&#34;mailto:267498@vutbr.cz&#34;&gt;267498@vutbr.cz&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Úkol 2 – 2D grafika a řezání</title>
-      <link>http://localhost:1313/posts/ukol2/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol2/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/ukol2/</guid>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol2/</guid>
       <description>&lt;h1 id=&#34;úkol-2--2d-grafika-a-řezání&#34;&gt;Úkol 2 – 2D grafika a řezání&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;(Sem přijde popis zadání, postup a výsledky – doplníš během semestru.)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

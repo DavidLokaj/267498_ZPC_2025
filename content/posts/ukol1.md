@@ -16,4 +16,4 @@ Cílem úkolu bylo vytvořit osobní web pomocí **Hugo** a nasadit jej na **Git
 5. Nahrání na GitHub Pages pomocí Actions.
 
 ## Výsledek
-👉 Web běží na adrese: [https://david-lokaj.github.io/267498_ZPC_2025/](https://david-lokaj.github.io/267498_ZPC_2025/)
+👉 Web běží na adrese: [https://davidlokaj.github.io/267498_ZPC_2025/](https://davidlokaj.github.io/267498_ZPC_2025/)
