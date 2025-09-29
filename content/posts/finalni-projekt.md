@@ -17,3 +17,5 @@ Projekt bude využívat moderní technologie, které umožní snadné tříděn�
 
 ## Očekávaný výsledek
 Zařízení, které usnadní práci na dílně technikům tím, že ušetří čas při hledání správného spojovacího materiálu.
+
+![Návrh_1](/images/Návrh_1.jpg)
