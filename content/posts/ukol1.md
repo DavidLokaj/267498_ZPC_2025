@@ -7,7 +7,7 @@ draft = false
 # Úkol 1 – Webová stránka
 
 Cílem úkolu bylo vytvořit osobní web pomocí **Hugo** a nasadit jej na **GitHub Pages**.  
-![Moje auto1](/images/auto1.jpg)
+
 ## Postup
 1. Instalace potřebného softwaru (Hugo, Git, Visual Studio Code).
 2. Vytvoření nového projektu.
