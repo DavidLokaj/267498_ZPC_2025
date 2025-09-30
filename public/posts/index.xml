@@ -10,9 +10,9 @@
     <atom:link href="https://david-lokaj.github.io/267498_ZPC_2025/posts/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Úkol 2 – 2D grafika a řezání</title>
-      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol2/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/%C3%BAkoly/ukol2/</link>
       <pubDate>Mon, 29 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol2/</guid>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/%C3%BAkoly/ukol2/</guid>
       <description>&lt;h1 id=&#34;úkol-2--2d-grafika-a-řezání&#34;&gt;Úkol 2 – 2D grafika a řezání&lt;/h1&gt;&#xA;&lt;p&gt;Popis úkolu a postup práce.&lt;br&gt;&#xA;&lt;em&gt;(Místo pro obrázky a poznámky)&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
@@ -31,9 +31,9 @@
     </item>
     <item>
       <title>Úkol 1 – Webová stránka</title>
-      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol1/</link>
+      <link>https://david-lokaj.github.io/267498_ZPC_2025/posts/%C3%BAkoly/ukol1/</link>
       <pubDate>Mon, 22 Sep 2025 00:00:00 +0000</pubDate>
-      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/ukol1/</guid>
+      <guid>https://david-lokaj.github.io/267498_ZPC_2025/posts/%C3%BAkoly/ukol1/</guid>
       <description>&lt;h1 id=&#34;úkol-1--webová-stránka&#34;&gt;Úkol 1 – Webová stránka&lt;/h1&gt;&#xA;&lt;p&gt;Cílem úkolu bylo vytvořit osobní web pomocí &lt;strong&gt;Hugo&lt;/strong&gt; a nasadit jej na &lt;strong&gt;GitHub Pages&lt;/strong&gt;.&lt;/p&gt;&#xA;&lt;h2 id=&#34;postup&#34;&gt;Postup&lt;/h2&gt;&#xA;&lt;ol&gt;&#xA;&lt;li&gt;Instalace potřebného softwaru (Hugo, Git, Visual Studio Code).&lt;/li&gt;&#xA;&lt;li&gt;Vytvoření nového projektu.&lt;/li&gt;&#xA;&lt;li&gt;Přidání šablony a základního obsahu.&lt;/li&gt;&#xA;&lt;li&gt;Zprovoznění lokální verze.&lt;/li&gt;&#xA;&lt;li&gt;Nahrání na GitHub Pages pomocí Actions.&lt;/li&gt;&#xA;&lt;/ol&gt;&#xA;&lt;h2 id=&#34;výsledek&#34;&gt;Výsledek&lt;/h2&gt;&#xA;&lt;p&gt;👉 Web běží na adrese: &lt;a href=&#34;https://davidlokaj.github.io/267498_ZPC_2025/&#34;&gt;https://davidlokaj.github.io/267498_ZPC_2025/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
   </channel>
