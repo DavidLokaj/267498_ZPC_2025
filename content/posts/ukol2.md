@@ -1,8 +1,9 @@
 +++
 title = "Úkol 2 – 2D grafika a řezání"
+date = 2025-09-29
 draft = false
 +++
 
 # Úkol 2 – 2D grafika a řezání
-
-*(Sem přijde popis zadání, postup a výsledky – doplníš během semestru.)*
+Popis úkolu a postup práce.  
+*(Místo pro obrázky a poznámky)*
