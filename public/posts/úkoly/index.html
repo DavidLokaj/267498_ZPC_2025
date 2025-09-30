@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html lang="cs">
+<head>
+<meta charset="UTF-8">
+<title>Úkoly</title>
+<style>
+  .ukol { display: none; }
+  .ukol.active { display: block; }
+  button { margin: 5px; }
+</style>
+</head>
+<body>
+
+<h1>Úkoly</h1>
+
+<!-- Tlačítka pro jednotlivé úkoly -->
+<button onclick="showUkol('ukol1')">Úkol 1</button>
+<button onclick="showUkol('ukol2')">Úkol 2</button>
+<button onclick="showUkol('ukol3')">Úkol 3</button>
+
+<!-- Obsahy úkolů -->
+<div id="ukol1" class="ukol active">
+  <p>Obsah úkolu 1</p>
+</div>
+
+<div id="ukol2" class="ukol">
+  <p>Obsah úkolu 2</p>
+</div>
+
+<div id="ukol3" class="ukol">
+  <p>Obsah úkolu 3</p>
+</div>
+
+<script>
+function showUkol(id) {
+  document.querySelectorAll('.ukol').forEach(u => u.classList.remove('active'));
+  document.getElementById(id).classList.add('active');
+}
+</script>
+
+</body>
+</html>
