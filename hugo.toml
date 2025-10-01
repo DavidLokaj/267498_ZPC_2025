@@ -10,7 +10,7 @@ theme = 'ananke'
 [[menu.main]]
   identifier = "uvod"
   name = "Úvod"
-  url = "/"
+  url = "/Úvod/"
   weight = 1
 
 [[menu.main]]
@@ -21,8 +21,8 @@ theme = 'ananke'
 
 [[menu.main]]
   identifier = "ukoly"
-  name = "Úkoly"
-  url = "/Úkoly/"
+  name = "Úkol1"
+  url = "/ukol1/"
   weight = 3
 
 [[menu.main]]
