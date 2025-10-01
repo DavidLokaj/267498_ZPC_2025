@@ -22,7 +22,7 @@ theme = 'ananke'
 [[menu.main]]
   identifier = "ukoly"
   name = "Úkoly"
-  url = "/Úkoly/"
+  url = "/content/posts/Úkoly/"
   weight = 3
 
 [[menu.main]]
