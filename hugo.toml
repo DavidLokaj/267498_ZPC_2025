@@ -20,8 +20,8 @@ theme = 'ananke'
   weight = 2
 
 [[menu.main]]
-  identifier = "ukoly3"
-  name = "Úkol3"
+  identifier = "ukoly"
+  name = "Úkoly"
   url = "/ukoly/"
   weight = 3
 
