@@ -1,6 +1,6 @@
 +++
 title = "Úkol 2 – 2D grafika a řezání"
-date = 2025-09-29
+date = 2025-07-23
 draft = false
 +++
 

@@ -20,9 +20,9 @@ theme = 'ananke'
   weight = 2
 
 [[menu.main]]
-  identifier = "ukoly"
-  name = "Úkol1"
-  url = "/ukol1/"
+  identifier = "ukoly3"
+  name = "Úkol3"
+  url = "/ukoly/"
   weight = 3
 
 [[menu.main]]
@@ -30,4 +30,5 @@ theme = 'ananke'
   name = "Finální projekt"
   url = "/posts/finalni-projekt/"
   weight = 4
+
 

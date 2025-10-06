@@ -1,6 +1,6 @@
 +++
 title = "Úkol 3 – 3D skenování"
-date = 2025-10-06
+date = 2025-07-24
 draft = false
 +++
 

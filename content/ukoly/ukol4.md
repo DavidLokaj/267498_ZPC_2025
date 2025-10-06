@@ -1,6 +1,6 @@
 +++
 title = "Úkol 4 – 3D tisk"
-date = 2025-10-13
+date = 2025-10-05
 draft = false
 +++
 
