@@ -13,37 +13,54 @@ Každý úkol má samostatnou stránku s popisem postupu, použitými technologi
 ---
 
 <style>
-.ukol-list {
-  display: flex;
-  flex-direction: column;
-  gap: 10px;
-  margin-top: 20px;
+.ukoly-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.2rem;
+  margin-top: 2rem;
 }
+
 .ukol-card {
-  padding: 12px 16px;
-  background-color: #f4f4f4;
-  border-left: 4px solid #007acc;
-  border-radius: 6px;
-  transition: background-color 0.2s ease;
+  background: #ffffff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  padding: 1.2rem 1.5rem;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: all 0.2s ease-in-out;
 }
+
 .ukol-card:hover {
-  background-color: #e8f2ff;
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
 }
+
 .ukol-card a {
   text-decoration: none;
-  color: #000;
-  font-weight: 500;
+  color: #007acc;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.ukol-card a:hover {
+  text-decoration: underline;
+}
+
+.ukol-card p {
+  margin: 0.5rem 0 0;
+  color: #444;
+  font-size: 0.95rem;
 }
 </style>
 
-<div class="ukol-list">
+<p><strong>TEST HTML</strong></p>
+
+<div class="ukoly-wrapper">
   {{ range .RegularPagesRecursive.ByDate }}
   <div class="ukol-card">
     <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+    {{ with .Summary }}
+      <p>{{ . }}</p>
+    {{ end }}
   </div>
   {{ end }}
 </div>
-
-{{ range .RegularPagesRecursive.ByDate }}
-- [{{ .Title }}]({{ .RelPermalink }})
-{{ end }}

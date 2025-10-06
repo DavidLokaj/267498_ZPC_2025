@@ -1,0 +1,86 @@
+{{ define "main" }}
+<main class="pa3 pa4-ns w-100 mw8 center">
+  <article class="cf ph3 ph0-l pv3 pv4-l">
+    <header class="mb4">
+      <h1 class="f2 lh-title fw9 mb3 mt0 pt3 bt bw2">{{ .Title }}</h1>
+      <p class="f5 lh-copy mid-gray">
+        Zde najdete všechny zadané úkoly v rámci předmětu <strong>ZPC 2025 – Jak vyrobit téměř cokoliv</strong>.
+      </p>
+    </header>
+
+    <div class="ukoly-wrapper">
+      {{ $pages := .Pages.ByDate.Reverse }}
+      {{ range $pages }}
+      <div class="ukol-card">
+        {{ with .Params.image }}
+        <div class="ukol-thumb">
+          <img src="{{ . }}" alt="{{ $.Title }}">
+        </div>
+        {{ end }}
+
+        <div class="ukol-content">
+          <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+
+          {{ with .Summary }}
+          <p>{{ . }}</p>
+          {{ end }}
+        </div>
+      </div>
+      {{ end }}
+    </div>
+
+  </article>
+</main>
+
+<style>
+.ukoly-wrapper {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 1.2rem;
+  margin-top: 2rem;
+}
+
+.ukol-card {
+  background: #fff;
+  border: 1px solid #e0e0e0;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 2px 5px rgba(0,0,0,0.05);
+  transition: all 0.2s ease-in-out;
+  display: flex;
+  flex-direction: column;
+}
+
+.ukol-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 4px 12px rgba(0,0,0,0.15);
+}
+
+.ukol-thumb img {
+  width: 100%;
+  height: 180px;
+  object-fit: cover;
+}
+
+.ukol-content {
+  padding: 1.2rem 1.5rem;
+}
+
+.ukol-content a {
+  text-decoration: none;
+  color: #007acc;
+  font-weight: 600;
+  font-size: 1.1rem;
+}
+
+.ukol-content a:hover {
+  text-decoration: underline;
+}
+
+.ukol-content p {
+  margin: 0.5rem 0 0;
+  color: #444;
+  font-size: 0.95rem;
+}
+</style>
+{{ end }}

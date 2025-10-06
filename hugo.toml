@@ -30,5 +30,7 @@ theme = 'ananke'
   name = "Finální projekt"
   url = "/posts/finalni-projekt/"
   weight = 4
-
+  
+[markup.goldmark.renderer]
+unsafe = true
 
